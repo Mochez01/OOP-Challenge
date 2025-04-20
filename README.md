@@ -35,9 +35,9 @@ This project is beginner-friendly and demonstrates the use of:
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-<img src="https://github.com/Mochez01/OOP-Challenge/blob/master/screenshots/training_motina.png" alt="training" width="400" height="500">
+<img src="https://github.com/Mochez01/OOP-Challenge/blob/master/screenshots/training_motina.png" alt="training" width="auto" height="300">
 
-<img src="/OOP-Challenge/screenshots/tricks.png" alt="feeding pet" width="400" height="500">
+<img src="https://github.com/Mochez01/OOP-Challenge/blob/master/screenshots/tricks.png" alt="feeding pet" width="auto" height="300">
 
 
 </div>
